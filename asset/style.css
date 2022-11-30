@@ -1,0 +1,19 @@
+.container-about {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.foto {
+margin-left: 60px;
+}
+
+.teks {
+  font-size: 1.2em;
+  text-align: left;
+  margin-right: 100px;
+}
+
+.teks-white{
+  list-style-type: none;
+}
