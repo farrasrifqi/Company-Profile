@@ -17,3 +17,24 @@ margin-left: 60px;
 .teks-white{
   list-style-type: none;
 }
+
+
+/* CONTACT */
+.komen{
+  padding-bottom: 90px;
+}
+.contact{
+ padding: 20px 0;
+ margin: 20px 0;
+}
+.isian{
+  width: 1000px;
+}
+.dalam{
+  background-color: rgb(245, 245, 245);
+  padding: 20px;
+  border-radius: 5px;
+}
+.info p{
+  color: #65747f;
+}
